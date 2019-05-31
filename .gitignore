@@ -1,0 +1,5 @@
+.settings/
+docs/apidocs
+target/
+.classpath
+.project
